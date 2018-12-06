@@ -8,6 +8,7 @@
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.1"
   },
+  "homepage" : "http://szluis.github.io/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
