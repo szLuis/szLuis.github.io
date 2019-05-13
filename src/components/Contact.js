@@ -4,11 +4,14 @@ class Contact extends Component {
     render() {
 
         return (
-            <ul>
-                <li>twitter @_szluis</li>
-                <li>Gmail szluis0</li>
-                <li>Instagram _szluis</li>
-            </ul>
+            <article>
+                <ul>
+                    <li>Gmail szluis0</li>
+                    <li>GitHub _szluis</li>
+                    <li>Twitter _szluis</li>
+                    <li>Instagram _szluis</li>
+                </ul>
+            </article>
         )
     }
 }
