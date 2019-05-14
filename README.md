@@ -1,1 +1,0 @@
-Welcome to my personal website. Dec 6th 2018
