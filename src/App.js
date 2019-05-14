@@ -5,7 +5,7 @@ import Skills from './components/Skills';
 import Contact from './components/Contact';
 import Interests from './components/Interests';
 
-const Index = () => <h2>Home</h2>;
+const Index = () => <h2>Hi, here you can explore my, skills, my interests and get in touch with me. :)</h2>;
 // const About = () => <h2>About me</h2>;
 // const Contact = () => <h2>Contact</h2>;
 
